@@ -65,7 +65,7 @@ html{
 .home{
     display: flex;
     background: url("img.jpg") no-repeat center;
-    height: 100vmax;
+    height: 700px;
     color: #fff;
     min-height: 500px;
     font-family: 'Ubuntu',sans-serif;
